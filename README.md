@@ -1,4 +1,4 @@
-# Red Hat OpenShift Pipelines
+# Pipeline e repositório de imagens compartilhado
 
 - Nível cluster
 - Git: `https://github.com/raphac-mar/01-pipelines`
