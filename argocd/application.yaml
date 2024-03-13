@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     path: k8s
-    repoURL: "https://github.com/raphac-mar/01-pipeline"
+    repoURL: "https://github.com/raphac-mar/01-pipelines"
     targetRevision: HEAD
   syncPolicy:
     syncOptions:
