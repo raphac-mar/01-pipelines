@@ -6,4 +6,4 @@ metadata:
     argocd.argoproj.io/managed-by: openshift-gitops
   annotations:
     operator.tekton.dev/prune.resources: "taskrun, pipelinerun"
-    operator.tekton.dev/prune.keep-since: 1440
+    operator.tekton.dev/prune.keep-since: "1440"
