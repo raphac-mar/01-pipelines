@@ -1,4 +1,4 @@
-# Pipeline e repositório de imagens compartilhado
+# Ciar os namespaces pipeline e repositório de imagens compartilhado
 
 - Git: `https://github.com/raphac-mar/01-pipelines`
 
