@@ -25,4 +25,6 @@
 ```sh
 cd 01-pipelines
 oc apply -f argocd/application.yaml
+
+oc delete Application 01-pipelines -n openshift-gitops
 ```
